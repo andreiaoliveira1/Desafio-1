@@ -1,0 +1,73 @@
+img{ 
+    width: 400px;
+    height: 250px;
+    border-radius: 50%;
+    border: 5px solid chartreuse;
+    margin: 5px;
+    
+}
+
+body {
+    background-color: white rgb(50, 0, 0);
+    background: linear-gradient(70deg, violet, salmon, navy);
+    
+   
+    margin-top: 30px;
+}
+
+
+
+h1 {
+    text-align: center;
+    font-family: 'Moon Dance', cursive;
+    text-shadow: 8px 20px 8px black;
+    color:chartreuse; 
+    font-weight: bolder;
+    font-size: 80px;
+    margin: 5px;
+
+    
+    
+}
+
+
+
+header{
+    
+    text-align: center;
+    
+    
+}
+
+section {
+    color:red;
+    font-style: italic;
+    font-weight:900;
+    margin: 70px;
+    margin-top: 50px;
+    border: 5px dashed chartreuse;
+    padding: 0px;
+    display:flow-root;
+    background-attachment:fixed;
+    background-image: url(https://media.istockphoto.com/id/466762852/vector/teenage-girl-chef-with-certificate.jpg?s=612x612&w=0&k=20&c=ivquYBju26X-z284TKjOxWoNMkTld1mOX3q0mX3Opk4=);
+    
+          
+    
+  
+    
+}
+
+
+
+footer {
+    font-style: oblique;
+    font-weight: bold;
+    color: black;
+    
+}
+
+
+
+
+
+
